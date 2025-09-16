@@ -1,4 +1,3 @@
-
 # 🚀 Big Data Project: Hadoop MapReduce with Spring Boot
 
 [![Hadoop](https://img.shields.io/badge/Hadoop-3.3.6-yellow.svg)](https://hadoop.apache.org/)
@@ -9,7 +8,7 @@
 ## 📖 About
 
 This project demonstrates how to:
-- 🖥️ Install and configure **Hadoop** on a cluster (1 master, 2 slaves)
+- 🖥️ Install and configure **Hadoop** on a cluster (1 master, 2 slaves) 
 - ⚡ Run a **Spring Boot** application that executes a MapReduce job
 - 📊 Process a real-world dataset from **Kaggle**
 
@@ -61,6 +60,8 @@ hadoop_mapreduce/
 ## 📹 Demo Video
 
 Watch the full tutorial here: [Project Video](https://drive.google.com/file/d/1z1UHO1iTZa1-KebYIhhBxEhiWdBETn-6/view?usp=sharing) 🎬
+
+> In the demo video, you will find an explanation on how to install Hadoop, set up a cluster with one master and two slaves, and run a MapReduce job.
 
 ## 📂 Dataset
 
